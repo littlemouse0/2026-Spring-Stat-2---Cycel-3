@@ -1,0 +1,42 @@
+Question 1: Gender and Current Cigarette Use
+==================================================
+
+Research question:
+Is the proportion of current cigarette use different between male and female students?
+
+Project paths:
+- Project root: C:\Users\user\Desktop\project-cycle-3
+- Raw data: C:\Users\user\Desktop\project-cycle-3\data\raw\YRBS_2007.csv
+- Processed data: C:\Users\user\Desktop\project-cycle-3\data\processed\q1_gender_cigarette_cleaned.csv
+- Frequency table: C:\Users\user\Desktop\project-cycle-3\outputs\tables\q1_frequency_table.csv
+- Proportion table: C:\Users\user\Desktop\project-cycle-3\outputs\tables\q1_proportion_table.csv
+
+Variables:
+- Group variable: WhatIsYourSex
+- Response variable: CurrentCigaretteUse
+
+Coding:
+- Gender: 1 = Female, 2 = Male
+- Current_Cigarette_Binary: 0 = No current cigarette use, 1 = Current cigarette use
+
+Missing values before cleaning:
+WhatIsYourSex                13
+CurrentCigaretteUse         718
+Gender                       13
+Current_Cigarette_Binary    718
+dtype: int64
+
+Final sample size after cleaning: n = 13312
+
+Frequency table:
+Current_Cigarette_Binary      0     1    All
+Gender                                      
+Female                     5573  1167   6740
+Male                       5154  1418   6572
+All                       10727  2585  13312
+
+Proportion table:
+Current_Cigarette_Binary         0         1
+Gender                                      
+Female                    0.826855  0.173145
+Male                      0.784236  0.215764
