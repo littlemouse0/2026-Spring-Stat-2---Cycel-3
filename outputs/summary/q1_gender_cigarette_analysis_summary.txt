@@ -1,0 +1,36 @@
+Question 1: Gender and Current Cigarette Use
+============================================================
+
+Research question:
+Is the proportion of current cigarette use different between male and female students?
+
+Variables:
+- Group variable: Gender, based on WhatIsYourSex
+- Response variable: Current_Cigarette_Binary, based on CurrentCigaretteUse
+- Current_Cigarette_Binary: 1 = current cigarette use, 0 = no current cigarette use
+
+Hypotheses:
+H0: The proportion of current cigarette use is the same for male and female students.
+HA: The proportion of current cigarette use is different between male and female students.
+
+Descriptive statistics:
+        No_Current_Cigarette_Use  Current_Cigarette_Use  Total  Current_Cigarette_Proportion
+Gender                                                                                      
+Female                      5573                   1167   6740                      0.173145
+Male                        5154                   1418   6572                      0.215764
+
+Two-proportion z-test results:
+Female proportion: 0.1731
+Male proportion: 0.2158
+Difference, Female - Male: -0.0426
+Z statistic: -6.2148
+P-value: 0.0000
+95% CI for difference: (-0.0561, -0.0292)
+
+Chi-square test results:
+Chi-square statistic: 38.3521
+Degrees of freedom: 1
+P-value: 0.0000
+
+Conclusion:
+Reject the null hypothesis. There is statistically significant evidence that the proportion of current cigarette use differs between male and female students.
