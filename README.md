@@ -3,7 +3,7 @@
 ## Group Information
 
 - Group number: 6
-- Members: 111370210李采軒、112370144陳冠維
+- Members: 111370210李采軒、112370144林謙宏
 
 ## Dataset
 
