@@ -1,12 +1,8 @@
 # 2026-Sprint-Stat-2-Cycle-3
 
-Group 5
-
-# Project Cycle 3
-
 ## Group Information
 
-- Group number: 5
+- Group number: 6
 - Members: 111370210李采軒、112370144陳冠維
 
 ## Dataset
