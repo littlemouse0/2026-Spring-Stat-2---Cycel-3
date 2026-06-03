@@ -169,8 +169,8 @@ The estimated difference was about 4.26 percentage points, with males higher tha
 
 Because this project uses observational survey data, the result should be interpreted as an association, not as a causal relationship.
 
-## Video Link
+## Project Repository
+https://github.com/littlemouse0/2026-Spring-Stat-2---Cycel-3
 
-The project video can be added here:
-
-- [VIDEO LINK](請貼上影片連結)
+## Presentation Video
+https://drive.google.com/file/d/1TK12cHZXBeAzyPsjnNoAq5Z64Q2nTZDm/view?usp=sharing
